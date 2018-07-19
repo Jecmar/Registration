@@ -1,0 +1,8 @@
+C:\Users\josue\source\repos\BigProject\Business\bin\Debug\Business.dll
+C:\Users\josue\source\repos\BigProject\Business\bin\Debug\Business.pdb
+C:\Users\josue\source\repos\BigProject\Business\bin\Debug\Dates.dll
+C:\Users\josue\source\repos\BigProject\Business\bin\Debug\Dates.pdb
+C:\Users\josue\source\repos\BigProject\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\josue\source\repos\BigProject\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\BigProject\Business\obj\Debug\Business.dll
+C:\Users\josue\source\repos\BigProject\Business\obj\Debug\Business.pdb

@@ -1,0 +1,6 @@
+C:\Users\josue\source\repos\BigProject\Dates\bin\Debug\Dates.dll
+C:\Users\josue\source\repos\BigProject\Dates\bin\Debug\Dates.pdb
+C:\Users\josue\source\repos\BigProject\Dates\obj\Debug\Dates.csprojResolveAssemblyReference.cache
+C:\Users\josue\source\repos\BigProject\Dates\obj\Debug\Dates.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\BigProject\Dates\obj\Debug\Dates.dll
+C:\Users\josue\source\repos\BigProject\Dates\obj\Debug\Dates.pdb
